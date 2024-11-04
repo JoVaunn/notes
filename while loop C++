@@ -1,0 +1,5 @@
+char input = 'p';
+		while (input != 'q') {
+			cout << "BOO!" << endl;
+			cout << "press any key to continue, q to quit" << endl;
+	}
